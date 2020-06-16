@@ -1,4 +1,4 @@
-# Clonando a landing pae do Spotify usando Bootstrap 4
+# Clonando a landing page do Spotify usando Bootstrap 4
 
 <div align="center">
   <img src="./img/Spotify.png" alt="Logo" width="700px" style="max-width:100%"/>
